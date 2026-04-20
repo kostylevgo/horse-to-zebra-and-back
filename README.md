@@ -1,8 +1,8 @@
 # 📄 Document question answering template
 
-A simple Streamlit app that answers questions about an uploaded document via OpenAI's GPT-3.5.
+A simple Streamlit app that transforms horses to zebras and back using CycleGAN model.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://document-question-answering-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cyclegan-t0a3k24kjqi.streamlit.app/)
 
 ### How to run it on your own machine
 

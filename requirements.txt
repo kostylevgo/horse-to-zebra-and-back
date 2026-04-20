@@ -1,2 +1,6 @@
 streamlit
-openai
+Pillow
+torch
+numpy
+torchvision
+scikit-learn
