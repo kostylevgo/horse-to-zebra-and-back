@@ -1,4 +1,4 @@
-# 📄 Document question answering template
+# Horse to zebra and back
 
 A simple Streamlit app that transforms horses to zebras and back using CycleGAN model.
 
